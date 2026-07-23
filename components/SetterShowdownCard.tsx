@@ -9,8 +9,6 @@ export default function SetterShowdownCard({ leaderboard }: { leaderboard: Leade
     .filter((r) => r.show != null || r.cashCollected != null)
     .sort((a, b) => (b.cashCollected ?? 0) - (a.cashCollected ?? 0));
 
-  const topBonus = [...leaderboard.rows].sort((a, b) => (b.totalBonus ?? 0) - (a.totalBonus ?? 0))[0];
-
   return (
     <section className="rounded-xl border border-line bg-surface p-6 shadow-sm">
       <div className="flex flex-wrap items-start justify-between gap-3">
@@ -47,19 +45,10 @@ export default function SetterShowdownCard({ leaderboard }: { leaderboard: Leade
                   <span className="font-semibold text-ink">{formatCurrency(row.cashCollected)}</span>
                   <span className="text-ink-soft">{formatNumber(row.show)} shows</span>
                   <span className="text-ink-soft">{formatPercent(row.conversion != null ? row.conversion : null)}</span>
-                  <span className="font-semibold text-brand">{formatCurrency(row.totalBonus)} bonus</span>
                 </div>
               </div>
             ))}
           </div>
-
-          {topBonus && (
-            <div className="mt-4 rounded-lg border border-brand/30 bg-surface-accent px-4 py-2.5 text-sm text-ink">
-              <span className="font-semibold">Top Total Bonus:</span> {topBonus.name} at{" "}
-              {formatCurrency(topBonus.totalBonus)}
-              {(topBonus.topShow != null || topBonus.topCash != null) && " — also holding a Top Show/Top Cash award."}
-            </div>
-          )}
         </>
       )}
     </section>
