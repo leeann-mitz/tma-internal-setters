@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:23:58.908Z",
+  "generatedAt": "2026-07-23T19:39:26.344Z",
   "source": "snapshot",
   "team": {
     "name": "Internal Setter (Team Philip)",
@@ -2620,17 +2620,6 @@
       "closedDeal": 4,
       "showRate": 46.88,
       "closedDealRate": 26.67
-    },
-    {
-      "name": "Philip Josh Caperig",
-      "monthLabel": "7/1/2026",
-      "revenue": 0,
-      "netCashCollected": 0,
-      "sets": 0,
-      "shows": 0,
-      "closedDeal": 0,
-      "showRate": null,
-      "closedDealRate": null
     },
     {
       "name": "Makkie Mendez",

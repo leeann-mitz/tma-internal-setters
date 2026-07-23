@@ -10,6 +10,10 @@ import {
   TEAM_METRIC_ROW_ORDER,
 } from "./setter-types";
 
+// Team leads who show up in the sheet's rep-level tables (usually with all
+// zeros) but aren't actually reps being measured.
+const EXCLUDED_REPS = new Set(["Philip Josh Caperig"]);
+
 const MONTH_NAMES = new Set([
   "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec",
   "january", "february", "march", "april", "june", "july", "august",
@@ -141,6 +145,7 @@ export function parseIsTrendCsv(csv: string): { team: SetterBlock; reps: SetterB
   const names = new Set([...setsByRep.keys(), ...showsByRep.keys()]);
   const reps: SetterBlock[] = [];
   for (const name of names) {
+    if (EXCLUDED_REPS.has(name)) continue;
     const block = emptyBlock(name, false);
     const setsList = setsByRep.get(name) ?? [];
     const showsList = showsByRep.get(name) ?? [];
@@ -197,6 +202,7 @@ export function parseExecutiveSummaryCsv(csv: string): RepSummary[] {
     const name = (row[nameCol] ?? "").trim();
     if (!name) break;
     if (name === "Grand Total") break;
+    if (EXCLUDED_REPS.has(name)) continue;
     summaries.push({
       name,
       monthLabel,
@@ -237,6 +243,7 @@ export function parseLeaderboardCsv(csv: string): LeaderboardData {
     if (!row) continue;
     const name = (row[nameCol] ?? "").trim();
     if (!name) break;
+    if (EXCLUDED_REPS.has(name)) continue;
     rowsOut.push({
       name,
       show: parseNumber(row[nameCol + 1]),
