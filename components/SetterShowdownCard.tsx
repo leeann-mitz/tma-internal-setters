@@ -26,7 +26,12 @@ export default function SetterShowdownCard({ leaderboard }: { leaderboard: Leade
         </div>
       ) : (
         <>
-          <div className="mt-5 space-y-1">
+          <div className="mt-4 flex justify-end gap-3 pr-3 text-[10px] font-semibold uppercase tracking-wide text-ink-faint">
+            <span>Cash Collected</span>
+            <span>Shows</span>
+            <span>Close Rate</span>
+          </div>
+          <div className="mt-1 space-y-1">
             {ranked.map((row, i) => (
               <div
                 key={row.name}
