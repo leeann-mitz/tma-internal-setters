@@ -10,9 +10,10 @@ import {
   TEAM_METRIC_ROW_ORDER,
 } from "./setter-types";
 
-// Team leads who show up in the sheet's rep-level tables (usually with all
-// zeros) but aren't actually reps being measured.
-const EXCLUDED_REPS = new Set(["Philip Josh Caperig"]);
+// People who show up in the sheet's rep-level tables (usually with all
+// zeros) but aren't actually setters being measured: Philip is the team
+// lead, Jessika handles cancelled/no-show calls rather than setting.
+const EXCLUDED_REPS = new Set(["Philip Josh Caperig", "Jessika Elliott"]);
 
 const MONTH_NAMES = new Set([
   "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec",

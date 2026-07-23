@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:39:26.344Z",
+  "generatedAt": "2026-07-23T19:40:29.547Z",
   "source": "snapshot",
   "team": {
     "name": "Internal Setter (Team Philip)",
@@ -2631,17 +2631,6 @@
       "closedDeal": 0,
       "showRate": 25,
       "closedDealRate": 0
-    },
-    {
-      "name": "Jessika Elliott",
-      "monthLabel": "7/1/2026",
-      "revenue": 0,
-      "netCashCollected": 0,
-      "sets": 0,
-      "shows": 0,
-      "closedDeal": 0,
-      "showRate": null,
-      "closedDealRate": null
     }
   ]
 }
