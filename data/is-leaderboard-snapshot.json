@@ -1,0 +1,159 @@
+{
+  "monthLabel": "July 2026",
+  "rows": [
+    {
+      "name": "Jhaziel Gonzales",
+      "show": 24,
+      "cashCollected": 31802.5,
+      "conversion": 16.67,
+      "showBonus": 200,
+      "ccBonus": 254.42,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 454.42
+    },
+    {
+      "name": "Richard Ian Alvarez",
+      "show": 22,
+      "cashCollected": 48166.66,
+      "conversion": 22.73,
+      "showBonus": 200,
+      "ccBonus": 385.33,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 585.33
+    },
+    {
+      "name": "Rafael John Abayan",
+      "show": 18,
+      "cashCollected": 59912.75,
+      "conversion": 44.44,
+      "showBonus": 0,
+      "ccBonus": 479.3,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 479.3
+    },
+    {
+      "name": "Vian Perez",
+      "show": 18,
+      "cashCollected": 63019.55,
+      "conversion": 55.56,
+      "showBonus": 0,
+      "ccBonus": 630.2,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 630.2
+    },
+    {
+      "name": "Phoebe Estel Ymil Collado",
+      "show": 34,
+      "cashCollected": 84461.29,
+      "conversion": 38.24,
+      "showBonus": 400,
+      "ccBonus": 844.61,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 1244.61
+    },
+    {
+      "name": "Heinrich Abarquez",
+      "show": 39,
+      "cashCollected": 89123,
+      "conversion": 33.33,
+      "showBonus": 500,
+      "ccBonus": 891.23,
+      "topShow": 250,
+      "topCash": 400,
+      "totalBonus": 2041.23
+    },
+    {
+      "name": "Tommy Tecson",
+      "show": 18,
+      "cashCollected": 26912.75,
+      "conversion": 22.22,
+      "showBonus": 0,
+      "ccBonus": 215.3,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 215.3
+    },
+    {
+      "name": "Julius Vizcayno",
+      "show": 26,
+      "cashCollected": 86712,
+      "conversion": 57.69,
+      "showBonus": 300,
+      "ccBonus": 867.12,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 1167.12
+    },
+    {
+      "name": "Dan Emmanuel Nicolas",
+      "show": 15,
+      "cashCollected": 26000,
+      "conversion": 26.67,
+      "showBonus": 0,
+      "ccBonus": 208,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 208
+    },
+    {
+      "name": "Edelson Libunao",
+      "show": 18,
+      "cashCollected": 43250,
+      "conversion": 22.22,
+      "showBonus": 0,
+      "ccBonus": 346,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 346
+    },
+    {
+      "name": "Makkie Mendez",
+      "show": 1,
+      "cashCollected": 0,
+      "conversion": 0,
+      "showBonus": 0,
+      "ccBonus": 0,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 0
+    },
+    {
+      "name": "Kenneth Mhar Garcia Libron",
+      "show": 29,
+      "cashCollected": 54500,
+      "conversion": 24.14,
+      "showBonus": 300,
+      "ccBonus": 436,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 736
+    },
+    {
+      "name": "Philip Josh Caperig",
+      "show": 0,
+      "cashCollected": 0,
+      "conversion": null,
+      "showBonus": 0,
+      "ccBonus": 0,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 0
+    },
+    {
+      "name": "Jessika Elliott",
+      "show": 0,
+      "cashCollected": 0,
+      "conversion": null,
+      "showBonus": 0,
+      "ccBonus": 0,
+      "topShow": null,
+      "topCash": null,
+      "totalBonus": 0
+    }
+  ]
+}

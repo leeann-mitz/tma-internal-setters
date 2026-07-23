@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------
+ * Color palette — same official Performance Golf brand values used by
+ * closer-performance-trends and qa-heatmap-dashboard (Orange/Black/Sand/
+ * Stone/Fog). Only the top header stays dark; every content surface is
+ * light.
+ * --------------------------------------------------------------------- */
+:root {
+  --background: #f4f2f0; /* Fog - page bg */
+  --foreground: #1d1a1a; /* Black */
+
+  --brand: #fd3300; /* Performance Orange */
+  --brand-dark: #db2c00; /* Dark Orange */
+
+  --page: #f4f2f0; /* Fog */
+
+  --header: #1d1a1a; /* Black */
+  --header-soft: #262223;
+  --header-line: #3a3637;
+  --header-ink: #fcfafa; /* Mist */
+  --header-ink-soft: #b3aaa3; /* Stone */
+
+  --surface: #fcfafa; /* Mist */
+  --surface-soft: #ece9e4; /* Sand */
+  --surface-accent: #fff7f3;
+
+  --line: #dfd9d5; /* Pebble */
+  --line-soft: #ece9e4; /* Sand */
+
+  --ink: #1d1a1a;
+  --ink-soft: #7b726c;
+  --ink-faint: #b3aaa3;
+
+  /* Status colors for red-flag / trend indicators */
+  --status-green: #1f9d55;
+  --status-amber: #c98a00;
+  --status-orange: #e67e22;
+  --status-red: #c0392b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-primary);
+  --font-serif: var(--font-secondary);
+  --font-mono: var(--font-tertiary);
+
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+
+  --color-page: var(--page);
+
+  --color-header: var(--header);
+  --color-header-soft: var(--header-soft);
+  --color-header-line: var(--header-line);
+  --color-header-ink: var(--header-ink);
+  --color-header-ink-soft: var(--header-ink-soft);
+
+  --color-surface: var(--surface);
+  --color-surface-soft: var(--surface-soft);
+  --color-surface-accent: var(--surface-accent);
+
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+
+  --color-status-green: var(--status-green);
+  --color-status-amber: var(--status-amber);
+  --color-status-orange: var(--status-orange);
+  --color-status-red: var(--status-red);
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+}
