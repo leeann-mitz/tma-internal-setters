@@ -63,6 +63,53 @@ Covers **Team Philip only** — the sheet also tracks Team Anne and a
 Support group (see the "TMA Daily Agent Perf" tab's Team filter), which are
 out of scope until asked for.
 
+Two reps are deliberately excluded from every rep-level view
+(`EXCLUDED_REPS` in `lib/setter-parse.ts`): Philip Josh Caperig (team lead,
+not a setter) and Jessika Elliott (handles cancelled/no-show recovery
+calls, not fresh sets).
+
+## Call QA Insights (`/qa-insights`)
+
+A second page, linked from the main dashboard's header, showing call-QA
+audit data: team-wide call volume (booked/declined/other), "Where Calls
+Break Down" (script-step weak-rate, from the sheet's 6 Phases + Objection
+Handling Score + Downsell Executed), Top Objections, Urgent Coaching
+Needed, and Best Practices/Top Performers. Clicking a rep card on the main
+dashboard opens their own QA modal (call count, avg score, top weak steps,
+every audited call with its score and a direct Aloware link).
+
+Sourced from the **"TMA Internal Setters_QA_Audit_Summary_2026"** Google
+Sheet (a separate sheet from the Transformation Academy Report), which is
+the setter-team equivalent of `closer-performance-trends`' human QA-audit
+pipeline (`lib/qa-audit-*.ts`, fed by "Closers_QA_Audit_Summary_2026") —
+**not** its AI-transcript pipeline. This sheet is already columnar
+(Phase 1–6, Objection Handling Score, Downsell Executed all rated `Y/P/N/NA`;
+`Overall Quality Score` numeric; `Opportunities`/`Highlights` already
+`" | "`-delimited bullet lists), so `lib/setter-qa-parse.ts` reads columns
+directly — no free-text regex mining.
+
+Rep names in the QA sheet don't always match the trend-data roster exactly:
+middle names get dropped ("Phoebe Collado" vs "Phoebe Estel Ymil Collado" —
+handled generically by first+last token matching) and one nickname needs a
+manual alias (`NAME_ALIASES` in `lib/setter-qa-parse.ts`: "Ed Libunao" →
+"Edelson Libunao"). Philip and Jessika's QA calls simply don't match any
+roster name (they're excluded upstream) and get silently dropped, same as
+how departed/other-team reps are handled.
+
+**Refresh workflow:**
+1. Pull a fresh CSV export of the RAW tab (gid 0) into
+   `data/qa-audit-raw/<name>.csv` (authenticated browser session — this
+   sheet is view-only for Lee Ann's account).
+2. Run:
+   ```
+   npx tsx scripts/generate-qa-insights.ts
+   ```
+3. Commit the raw CSV + regenerated `data/setter-qa-team-insights.json` and
+   `data/rep-qa-insights.json`, push.
+
+Multiple exports can overlap on the same day; the script dedupes by Call
+Link.
+
 ## Local dev
 
 ```

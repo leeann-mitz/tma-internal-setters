@@ -9,11 +9,13 @@ export default function RepGrid({
   team,
   kind,
   repSummaries,
+  onSelectRep,
 }: {
   reps: SetterBlock[];
   team: SetterBlock;
   kind: OverallViewKind;
   repSummaries: RepSummary[];
+  onSelectRep: (repName: string) => void;
 }) {
   // Ranked by Sets, best to worst, among reps with activity that period —
   // Sets is a setter's own craft/output metric (unlike Closer's revenue
@@ -46,10 +48,19 @@ export default function RepGrid({
             isTop={rank === 1}
             isBottom={bottomRanks.has(rank) && rank !== 1}
             summary={summaryByName.get(rep.name) ?? null}
+            onClick={() => onSelectRep(rep.name)}
           />
         ))}
         {idle.map((rep) => (
-          <RepCard key={rep.name} rep={rep} team={team} kind={kind} isInactive summary={summaryByName.get(rep.name) ?? null} />
+          <RepCard
+            key={rep.name}
+            rep={rep}
+            team={team}
+            kind={kind}
+            isInactive
+            summary={summaryByName.get(rep.name) ?? null}
+            onClick={() => onSelectRep(rep.name)}
+          />
         ))}
       </div>
     </section>

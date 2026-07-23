@@ -25,6 +25,7 @@ export default function RepCard({
   isBottom = false,
   isInactive = false,
   summary,
+  onClick,
 }: {
   rep: SetterBlock;
   team: SetterBlock;
@@ -36,6 +37,7 @@ export default function RepCard({
   isBottom?: boolean;
   isInactive?: boolean;
   summary?: RepSummary | null;
+  onClick?: () => void;
 }) {
   const point = latestPoint(resolveViewPoints(rep, kind));
   const flags = evaluateRepFlags(rep, team);
@@ -43,15 +45,23 @@ export default function RepCard({
 
   if (isInactive) {
     return (
-      <div className="w-full rounded-xl border border-line border-t-4 border-t-line bg-surface-soft p-4 opacity-70 shadow-sm">
+      <button
+        type="button"
+        onClick={onClick}
+        className="w-full rounded-xl border border-line border-t-4 border-t-line bg-surface-soft p-4 text-left opacity-70 shadow-sm transition-shadow hover:opacity-100 hover:shadow-md"
+      >
         <h3 className="font-serif text-base font-semibold text-ink">{rep.name}</h3>
-        <div className="mt-2 text-xs text-ink-soft">No sets or shows this period.</div>
-      </div>
+        <div className="mt-2 text-xs text-ink-soft">No sets or shows this period. Click for call QA.</div>
+      </button>
     );
   }
 
   return (
-    <div className={`w-full rounded-xl border border-line border-t-4 bg-surface p-4 shadow-sm ${BORDER_BY_LEVEL[level]}`}>
+    <button
+      type="button"
+      onClick={onClick}
+      className={`w-full rounded-xl border border-line border-t-4 bg-surface p-4 text-left shadow-sm transition-shadow hover:shadow-md ${BORDER_BY_LEVEL[level]}`}
+    >
       <div className="flex items-start justify-between gap-2">
         <h3 className="font-serif text-base font-semibold text-ink">{rep.name}</h3>
         {rank != null && (
@@ -111,6 +121,6 @@ export default function RepCard({
           </div>
         </div>
       )}
-    </div>
+    </button>
   );
 }
