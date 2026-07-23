@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:40:29.547Z",
+  "generatedAt": "2026-07-23T20:44:17.657Z",
   "source": "snapshot",
   "team": {
     "name": "Internal Setter (Team Philip)",
@@ -11,6 +11,7 @@
         "shows": 253,
         "showRate": 52.16,
         "closedDeal": 111,
+        "closeRate": 43.873517786561266,
         "revenue": 763518,
         "cashCollected": 732327
       },
@@ -20,6 +21,7 @@
         "shows": 366,
         "showRate": 49.13,
         "closedDeal": 107,
+        "closeRate": 29.23497267759563,
         "revenue": 808950,
         "cashCollected": 840545
       },
@@ -29,6 +31,7 @@
         "shows": 269,
         "showRate": 61.98,
         "closedDeal": 94,
+        "closeRate": 34.94423791821561,
         "revenue": 678177,
         "cashCollected": 719292
       },
@@ -38,6 +41,7 @@
         "shows": 290,
         "showRate": 60.8,
         "closedDeal": 88,
+        "closeRate": 30.344827586206897,
         "revenue": 564557,
         "cashCollected": 583109
       },
@@ -47,6 +51,7 @@
         "shows": 283,
         "showRate": 56.37,
         "closedDeal": 113,
+        "closeRate": 39.92932862190813,
         "revenue": 708456,
         "cashCollected": 672242
       },
@@ -56,6 +61,7 @@
         "shows": 262,
         "showRate": 53.25,
         "closedDeal": 87,
+        "closeRate": 33.20610687022901,
         "revenue": 609293,
         "cashCollected": 613861
       }
@@ -67,6 +73,7 @@
         "shows": 61,
         "showRate": 58.1,
         "closedDeal": 25,
+        "closeRate": 40.98360655737705,
         "revenue": 159200,
         "cashCollected": 134467
       },
@@ -76,6 +83,7 @@
         "shows": 74,
         "showRate": 51.75,
         "closedDeal": 29,
+        "closeRate": 39.189189189189186,
         "revenue": 184065,
         "cashCollected": 168088
       },
@@ -85,6 +93,7 @@
         "shows": 65,
         "showRate": 65.66,
         "closedDeal": 21,
+        "closeRate": 32.30769230769231,
         "revenue": 136400,
         "cashCollected": 178867
       },
@@ -94,6 +103,7 @@
         "shows": 87,
         "showRate": 56.13,
         "closedDeal": 34,
+        "closeRate": 39.08045977011494,
         "revenue": 235612,
         "cashCollected": 219230
       },
@@ -103,6 +113,7 @@
         "shows": 95,
         "showRate": 55.23,
         "closedDeal": 27,
+        "closeRate": 28.421052631578945,
         "revenue": 201481,
         "cashCollected": 198725
       },
@@ -112,6 +123,7 @@
         "shows": 40,
         "showRate": 40.4,
         "closedDeal": 14,
+        "closeRate": 35,
         "revenue": 91000,
         "cashCollected": 82418
       }
@@ -123,6 +135,7 @@
         "shows": 20,
         "showRate": 51.28,
         "closedDeal": 4,
+        "closeRate": 20,
         "revenue": 35000,
         "cashCollected": 40413
       },
@@ -132,6 +145,7 @@
         "shows": 27,
         "showRate": 90,
         "closedDeal": 10,
+        "closeRate": 37.03703703703704,
         "revenue": 70000,
         "cashCollected": 75379
       },
@@ -141,6 +155,7 @@
         "shows": 15,
         "showRate": 65.22,
         "closedDeal": 8,
+        "closeRate": 53.333333333333336,
         "revenue": 61481,
         "cashCollected": 48166
       },
@@ -150,6 +165,7 @@
         "shows": 13,
         "showRate": 39.39,
         "closedDeal": 1,
+        "closeRate": 7.6923076923076925,
         "revenue": 5500,
         "cashCollected": 7550
       },
@@ -159,6 +175,7 @@
         "shows": 11,
         "showRate": null,
         "closedDeal": 2,
+        "closeRate": 18.181818181818183,
         "revenue": 17500,
         "cashCollected": 17500
       },
@@ -168,6 +185,7 @@
         "shows": 0,
         "showRate": 0,
         "closedDeal": 0,
+        "closeRate": null,
         "revenue": 0,
         "cashCollected": 2167
       },
@@ -177,6 +195,7 @@
         "shows": 8,
         "showRate": 27.59,
         "closedDeal": 8,
+        "closeRate": 100,
         "revenue": 50800,
         "cashCollected": 37668
       },
@@ -186,6 +205,7 @@
         "shows": 16,
         "showRate": 41.03,
         "closedDeal": 3,
+        "closeRate": 18.75,
         "revenue": 21700,
         "cashCollected": 21000
       },
@@ -195,6 +215,7 @@
         "shows": 13,
         "showRate": 43.33,
         "closedDeal": 3,
+        "closeRate": 23.076923076923077,
         "revenue": 18500,
         "cashCollected": 23750
       },
@@ -204,6 +225,7 @@
         "shows": 2,
         "showRate": 200,
         "closedDeal": 0,
+        "closeRate": 0,
         "revenue": 0,
         "cashCollected": 0
       }
@@ -220,6 +242,7 @@
           "shows": 28,
           "showRate": 43.07692307692308,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -229,6 +252,7 @@
           "shows": 51,
           "showRate": 52.04081632653062,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -238,6 +262,7 @@
           "shows": 36,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -247,6 +272,7 @@
           "shows": 38,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -256,6 +282,7 @@
           "shows": 48,
           "showRate": 64.86486486486487,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -265,6 +292,7 @@
           "shows": 39,
           "showRate": 58.2089552238806,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -276,6 +304,7 @@
           "shows": 8,
           "showRate": 57.14285714285714,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -285,6 +314,7 @@
           "shows": 15,
           "showRate": 78.94736842105263,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -294,6 +324,7 @@
           "shows": 8,
           "showRate": 57.14285714285714,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -303,6 +334,7 @@
           "shows": 12,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -312,6 +344,7 @@
           "shows": 14,
           "showRate": 56.00000000000001,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -321,6 +354,7 @@
           "shows": 7,
           "showRate": 53.84615384615385,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -332,6 +366,7 @@
           "shows": 1,
           "showRate": 12.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -341,6 +376,7 @@
           "shows": 3,
           "showRate": 75,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -350,6 +386,7 @@
           "shows": 3,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -359,6 +396,7 @@
           "shows": 3,
           "showRate": 75,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -368,6 +406,7 @@
           "shows": 3,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -377,6 +416,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -386,6 +426,7 @@
           "shows": 1,
           "showRate": 20,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -395,6 +436,7 @@
           "shows": 4,
           "showRate": 80,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -404,6 +446,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -413,6 +456,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -428,6 +472,7 @@
           "shows": 34,
           "showRate": 68,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -437,6 +482,7 @@
           "shows": 23,
           "showRate": 40.35087719298245,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -446,6 +492,7 @@
           "shows": 18,
           "showRate": 56.25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -455,6 +502,7 @@
           "shows": 33,
           "showRate": 56.896551724137936,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -464,6 +512,7 @@
           "shows": 26,
           "showRate": 48.148148148148145,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -473,6 +522,7 @@
           "shows": 26,
           "showRate": 57.77777777777777,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -484,6 +534,7 @@
           "shows": 3,
           "showRate": 75,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -493,6 +544,7 @@
           "shows": 9,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -502,6 +554,7 @@
           "shows": 8,
           "showRate": 57.14285714285714,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -511,6 +564,7 @@
           "shows": 6,
           "showRate": 54.54545454545454,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -520,6 +574,7 @@
           "shows": 9,
           "showRate": 56.25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -529,6 +584,7 @@
           "shows": 5,
           "showRate": 45.45454545454545,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -540,6 +596,7 @@
           "shows": 2,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -549,6 +606,7 @@
           "shows": 4,
           "showRate": 133.33333333333331,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -558,6 +616,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -567,6 +626,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -576,6 +636,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -585,6 +646,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -594,6 +656,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -603,6 +666,7 @@
           "shows": 4,
           "showRate": 80,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -612,6 +676,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -621,6 +686,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -636,6 +702,7 @@
           "shows": 19,
           "showRate": 47.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -645,6 +712,7 @@
           "shows": 32,
           "showRate": 47.05882352941176,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -654,6 +722,7 @@
           "shows": 28,
           "showRate": 68.29268292682927,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -663,6 +732,7 @@
           "shows": 38,
           "showRate": 82.6086956521739,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -672,6 +742,7 @@
           "shows": 24,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -681,6 +752,7 @@
           "shows": 18,
           "showRate": 56.25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -692,6 +764,7 @@
           "shows": 1,
           "showRate": 9.090909090909092,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -701,6 +774,7 @@
           "shows": 7,
           "showRate": 53.84615384615385,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -710,6 +784,7 @@
           "shows": 12,
           "showRate": 133.33333333333331,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -719,6 +794,7 @@
           "shows": 3,
           "showRate": 27.27272727272727,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -728,6 +804,7 @@
           "shows": 5,
           "showRate": 71.42857142857143,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -737,6 +814,7 @@
           "shows": 3,
           "showRate": 37.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -748,6 +826,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -757,6 +836,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -766,6 +846,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -775,6 +856,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -784,6 +866,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -793,6 +876,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -802,6 +886,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -811,6 +896,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -820,6 +906,7 @@
           "shows": 1,
           "showRate": 20,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -829,6 +916,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -844,6 +932,7 @@
           "shows": 6,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -853,6 +942,7 @@
           "shows": 25,
           "showRate": 43.859649122807014,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -862,6 +952,7 @@
           "shows": 16,
           "showRate": 53.333333333333336,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -871,6 +962,7 @@
           "shows": 25,
           "showRate": 58.139534883720934,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -880,6 +972,7 @@
           "shows": 30,
           "showRate": 61.224489795918366,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -889,6 +982,7 @@
           "shows": 18,
           "showRate": 58.06451612903226,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -900,6 +994,7 @@
           "shows": 7,
           "showRate": 63.63636363636363,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -909,6 +1004,7 @@
           "shows": 3,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -918,6 +1014,7 @@
           "shows": 3,
           "showRate": 42.857142857142854,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -927,6 +1024,7 @@
           "shows": 11,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -936,6 +1034,7 @@
           "shows": 5,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -945,6 +1044,7 @@
           "shows": 2,
           "showRate": 40,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -956,6 +1056,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -965,6 +1066,7 @@
           "shows": 2,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -974,6 +1076,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -983,6 +1086,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -992,6 +1096,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1001,6 +1106,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1010,6 +1116,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1019,6 +1126,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1028,6 +1136,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1037,6 +1146,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1052,6 +1162,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1061,6 +1172,7 @@
           "shows": 36,
           "showRate": 51.42857142857142,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1070,6 +1182,7 @@
           "shows": 27,
           "showRate": 62.7906976744186,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1079,6 +1192,7 @@
           "shows": 40,
           "showRate": 62.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1088,6 +1202,7 @@
           "shows": 30,
           "showRate": 53.57142857142857,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1097,6 +1212,7 @@
           "shows": 22,
           "showRate": 56.41025641025641,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1108,6 +1224,7 @@
           "shows": 11,
           "showRate": 68.75,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1117,6 +1234,7 @@
           "shows": 6,
           "showRate": 35.294117647058826,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1126,6 +1244,7 @@
           "shows": 6,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1135,6 +1254,7 @@
           "shows": 10,
           "showRate": 66.66666666666666,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1144,6 +1264,7 @@
           "shows": 4,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1153,6 +1274,7 @@
           "shows": 4,
           "showRate": 66.66666666666666,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1164,6 +1286,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1173,6 +1296,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1182,6 +1306,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1191,6 +1316,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1200,6 +1326,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1209,6 +1336,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1218,6 +1346,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1227,6 +1356,7 @@
           "shows": 1,
           "showRate": 25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1236,6 +1366,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1245,6 +1376,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1260,6 +1392,7 @@
           "shows": 33,
           "showRate": 73.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1269,6 +1402,7 @@
           "shows": 41,
           "showRate": 56.16438356164384,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1278,6 +1412,7 @@
           "shows": 31,
           "showRate": 68.88888888888889,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1287,6 +1422,7 @@
           "shows": 30,
           "showRate": 63.829787234042556,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1296,6 +1432,7 @@
           "shows": 37,
           "showRate": 63.793103448275865,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1305,6 +1442,7 @@
           "shows": 18,
           "showRate": 56.25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1316,6 +1454,7 @@
           "shows": 14,
           "showRate": 60.86956521739131,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1325,6 +1464,7 @@
           "shows": 7,
           "showRate": 46.666666666666664,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1334,6 +1474,7 @@
           "shows": 5,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1343,6 +1484,7 @@
           "shows": 7,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1352,6 +1494,7 @@
           "shows": 6,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1361,6 +1504,7 @@
           "shows": 2,
           "showRate": 22.22222222222222,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1372,6 +1516,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1381,6 +1526,7 @@
           "shows": 2,
           "showRate": 66.66666666666666,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1390,6 +1536,7 @@
           "shows": 2,
           "showRate": 200,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1399,6 +1546,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1408,6 +1556,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1417,6 +1566,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1426,6 +1576,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1435,6 +1586,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1444,6 +1596,7 @@
           "shows": 1,
           "showRate": 25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1453,6 +1606,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1468,6 +1622,7 @@
           "shows": 42,
           "showRate": 46.666666666666664,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1477,6 +1632,7 @@
           "shows": 46,
           "showRate": 56.79012345679012,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1486,6 +1642,7 @@
           "shows": 33,
           "showRate": 63.46153846153846,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1495,6 +1652,7 @@
           "shows": 39,
           "showRate": 56.52173913043478,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1504,6 +1662,7 @@
           "shows": 35,
           "showRate": 50.72463768115942,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1513,6 +1672,7 @@
           "shows": 34,
           "showRate": 52.307692307692314,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1524,6 +1684,7 @@
           "shows": 5,
           "showRate": 71.42857142857143,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1533,6 +1694,7 @@
           "shows": 15,
           "showRate": 62.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1542,6 +1704,7 @@
           "shows": 8,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1551,6 +1714,7 @@
           "shows": 13,
           "showRate": 59.09090909090909,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1560,6 +1724,7 @@
           "shows": 12,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1569,6 +1734,7 @@
           "shows": 2,
           "showRate": 16.666666666666664,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1580,6 +1746,7 @@
           "shows": 4,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1589,6 +1756,7 @@
           "shows": 2,
           "showRate": 200,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1598,6 +1766,7 @@
           "shows": 1,
           "showRate": 14.285714285714285,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1607,6 +1776,7 @@
           "shows": 3,
           "showRate": 150,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1616,6 +1786,7 @@
           "shows": 2,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1625,6 +1796,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1634,6 +1806,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1643,6 +1816,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1652,6 +1826,7 @@
           "shows": 2,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1661,6 +1836,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1676,6 +1852,7 @@
           "shows": 44,
           "showRate": 55.00000000000001,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1685,6 +1862,7 @@
           "shows": 36,
           "showRate": 45.56962025316456,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1694,6 +1872,7 @@
           "shows": 30,
           "showRate": 71.42857142857143,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1703,6 +1882,7 @@
           "shows": 47,
           "showRate": 63.51351351351351,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1712,6 +1892,7 @@
           "shows": 28,
           "showRate": 52.83018867924528,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1721,6 +1902,7 @@
           "shows": 24,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1732,6 +1914,7 @@
           "shows": 6,
           "showRate": 46.15384615384615,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1741,6 +1924,7 @@
           "shows": 5,
           "showRate": 38.46153846153847,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1750,6 +1934,7 @@
           "shows": 8,
           "showRate": 72.72727272727273,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1759,6 +1944,7 @@
           "shows": 6,
           "showRate": 40,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1768,6 +1954,7 @@
           "shows": 8,
           "showRate": 47.05882352941176,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1777,6 +1964,7 @@
           "shows": 5,
           "showRate": 45.45454545454545,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1788,6 +1976,7 @@
           "shows": 2,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1797,6 +1986,7 @@
           "shows": 2,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1806,6 +1996,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1815,6 +2006,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1824,6 +2016,7 @@
           "shows": 3,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1833,6 +2026,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1842,6 +2036,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1851,6 +2046,7 @@
           "shows": 1,
           "showRate": 25,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1860,6 +2056,7 @@
           "shows": 3,
           "showRate": 75,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1869,6 +2066,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1884,6 +2082,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1893,6 +2092,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1902,6 +2102,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1911,6 +2112,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1920,6 +2122,7 @@
           "shows": 23,
           "showRate": 62.16216216216216,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1929,6 +2132,7 @@
           "shows": 15,
           "showRate": 46.875,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1940,6 +2144,7 @@
           "shows": 6,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1949,6 +2154,7 @@
           "shows": 6,
           "showRate": 42.857142857142854,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1958,6 +2164,7 @@
           "shows": 5,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1967,6 +2174,7 @@
           "shows": 3,
           "showRate": 37.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1976,6 +2184,7 @@
           "shows": 8,
           "showRate": 66.66666666666666,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -1985,6 +2194,7 @@
           "shows": 3,
           "showRate": 42.857142857142854,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -1996,6 +2206,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2005,6 +2216,7 @@
           "shows": 5,
           "showRate": 500,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2014,6 +2226,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2023,6 +2236,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2032,6 +2246,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2041,6 +2256,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2050,6 +2266,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2059,6 +2276,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2068,6 +2286,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2077,6 +2296,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2092,6 +2312,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2101,6 +2322,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2110,6 +2332,7 @@
           "shows": 3,
           "showRate": 60,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2119,6 +2342,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2128,6 +2352,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2137,6 +2362,7 @@
           "shows": 18,
           "showRate": 35.294117647058826,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2148,6 +2374,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2157,6 +2384,7 @@
           "shows": 1,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2166,6 +2394,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2175,6 +2404,7 @@
           "shows": 6,
           "showRate": 31.57894736842105,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2184,6 +2414,7 @@
           "shows": 9,
           "showRate": 42.857142857142854,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2193,6 +2424,7 @@
           "shows": 3,
           "showRate": 37.5,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2204,6 +2436,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2213,6 +2446,7 @@
           "shows": 3,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2222,6 +2456,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2231,6 +2466,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2240,6 +2476,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2249,6 +2486,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2258,6 +2496,7 @@
           "shows": 2,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2267,6 +2506,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2276,6 +2516,7 @@
           "shows": 1,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2285,6 +2526,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2300,6 +2542,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2309,6 +2552,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2318,6 +2562,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2327,6 +2572,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2336,6 +2582,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2345,6 +2592,7 @@
           "shows": 29,
           "showRate": 63.04347826086957,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2356,6 +2604,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2365,6 +2614,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2374,6 +2624,7 @@
           "shows": 1,
           "showRate": 20,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2383,6 +2634,7 @@
           "shows": 10,
           "showRate": 71.42857142857143,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2392,6 +2644,7 @@
           "shows": 14,
           "showRate": 73.68421052631578,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2401,6 +2654,7 @@
           "shows": 4,
           "showRate": 50,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }
@@ -2412,6 +2666,7 @@
           "shows": 4,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2421,6 +2676,7 @@
           "shows": 4,
           "showRate": 80,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2430,6 +2686,7 @@
           "shows": 2,
           "showRate": 200,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2439,6 +2696,7 @@
           "shows": 2,
           "showRate": 66.66666666666666,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2448,6 +2706,7 @@
           "shows": 1,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2457,6 +2716,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2466,6 +2726,7 @@
           "shows": 1,
           "showRate": 33.33333333333333,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2475,6 +2736,7 @@
           "shows": 3,
           "showRate": 100,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2484,6 +2746,7 @@
           "shows": 0,
           "showRate": 0,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         },
@@ -2493,6 +2756,7 @@
           "shows": 0,
           "showRate": null,
           "closedDeal": null,
+          "closeRate": null,
           "revenue": null,
           "cashCollected": null
         }

@@ -11,6 +11,7 @@ export interface PeriodPoint {
   shows: number | null;
   showRate: number | null; // 0-100, computed as shows/sets — the sheet doesn't track this per rep directly
   closedDeal: number | null;
+  closeRate: number | null; // 0-100, computed as closedDeal/shows — how many shows actually closed
   revenue: number | null;
   cashCollected: number | null;
 }

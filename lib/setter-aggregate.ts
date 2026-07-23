@@ -1,6 +1,6 @@
 import { SetterBlock, OverallViewKind, PeriodPoint } from "./setter-types";
 
-export type NumericMetric = "sets" | "shows" | "showRate" | "closedDeal" | "revenue" | "cashCollected";
+export type NumericMetric = "sets" | "shows" | "showRate" | "closedDeal" | "closeRate" | "revenue" | "cashCollected";
 
 export interface TrendResult {
   direction: "up" | "down" | "flat" | "insufficient";

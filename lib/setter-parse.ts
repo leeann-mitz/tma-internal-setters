@@ -105,12 +105,15 @@ export function parseIsTrendCsv(csv: string): { team: SetterBlock; reps: SetterB
 
       team = emptyBlock(title, true);
       for (const col of columns) {
+        const shows = parseNumber(metricRows.get("Show")?.[col.index]);
+        const closedDeal = parseNumber(metricRows.get("Closed Deal")?.[col.index]);
         const point: PeriodPoint = {
           label: col.label,
           sets: parseNumber(metricRows.get("Sets")?.[col.index]),
-          shows: parseNumber(metricRows.get("Show")?.[col.index]),
+          shows,
           showRate: parseNumber(metricRows.get("Show Rate")?.[col.index]),
-          closedDeal: parseNumber(metricRows.get("Closed Deal")?.[col.index]),
+          closedDeal,
+          closeRate: shows && shows > 0 && closedDeal != null ? (closedDeal / shows) * 100 : null,
           revenue: parseNumber(metricRows.get("Revenue")?.[col.index]),
           cashCollected: parseNumber(metricRows.get("Cash Collected")?.[col.index]),
         };
@@ -163,6 +166,7 @@ export function parseIsTrendCsv(csv: string): { team: SetterBlock; reps: SetterB
         shows,
         showRate,
         closedDeal: null,
+        closeRate: null,
         revenue: null,
         cashCollected: null,
       });

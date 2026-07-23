@@ -47,7 +47,7 @@ export default function OverallCard({
         </div>
       )}
 
-      <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+      <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-7">
         <StatTile label="Sets" value={formatNumber(setsTrend.current)} trend={setsTrend} />
         <StatTile
           label="Shows"
@@ -65,6 +65,11 @@ export default function OverallCard({
           trend={computeTrend(points, "closedDeal")}
         />
         <StatTile
+          label="Close Rate"
+          value={formatPercent(computeTrend(points, "closeRate").current)}
+          trend={computeTrend(points, "closeRate")}
+        />
+        <StatTile
           label="Revenue"
           value={formatCurrency(computeTrend(points, "revenue").current)}
           trend={computeTrend(points, "revenue")}
@@ -76,7 +81,7 @@ export default function OverallCard({
         />
       </div>
 
-      <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-6">
+      <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-7">
         <div>
           <div className="mb-2 text-xs font-medium uppercase tracking-wide text-ink-soft">Sets</div>
           <TrendChart points={points} metric="sets" color="#fd3300" valueFormatter={(v) => `${v} sets`} height={140} />
@@ -92,6 +97,10 @@ export default function OverallCard({
         <div>
           <div className="mb-2 text-xs font-medium uppercase tracking-wide text-ink-soft">Closed deals</div>
           <TrendChart points={points} metric="closedDeal" color="#1f9d55" valueFormatter={(v) => `${v} closed`} height={140} />
+        </div>
+        <div>
+          <div className="mb-2 text-xs font-medium uppercase tracking-wide text-ink-soft">Close rate</div>
+          <TrendChart points={points} metric="closeRate" color="#7b726c" valueFormatter={(v) => `${v}%`} height={140} />
         </div>
         <div>
           <div className="mb-2 text-xs font-medium uppercase tracking-wide text-ink-soft">Revenue</div>
