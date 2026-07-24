@@ -3,14 +3,14 @@
   "rows": [
     {
       "name": "Jhaziel Gonzales",
-      "show": 24,
-      "cashCollected": 31802.5,
-      "conversion": 16.67,
-      "showBonus": 200,
-      "ccBonus": 254.42,
+      "show": 28,
+      "cashCollected": 49802.5,
+      "conversion": 21.43,
+      "showBonus": 300,
+      "ccBonus": 398.42,
       "topShow": null,
       "topCash": null,
-      "totalBonus": 454.42
+      "totalBonus": 698.42
     },
     {
       "name": "Richard Ian Alvarez",
@@ -25,53 +25,53 @@
     },
     {
       "name": "Rafael John Abayan",
-      "show": 18,
+      "show": 20,
       "cashCollected": 59912.75,
-      "conversion": 44.44,
-      "showBonus": 0,
+      "conversion": 40,
+      "showBonus": 200,
       "ccBonus": 479.3,
       "topShow": null,
       "topCash": null,
-      "totalBonus": 479.3
+      "totalBonus": 679.3
     },
     {
       "name": "Vian Perez",
-      "show": 18,
-      "cashCollected": 63019.55,
-      "conversion": 55.56,
+      "show": 19,
+      "cashCollected": 64019.55,
+      "conversion": 52.63,
       "showBonus": 0,
-      "ccBonus": 630.2,
+      "ccBonus": 640.2,
       "topShow": null,
       "topCash": null,
-      "totalBonus": 630.2
+      "totalBonus": 640.2
     },
     {
       "name": "Phoebe Estel Ymil Collado",
-      "show": 34,
-      "cashCollected": 84461.29,
-      "conversion": 38.24,
-      "showBonus": 400,
-      "ccBonus": 844.61,
+      "show": 36,
+      "cashCollected": 85461.29,
+      "conversion": 36.11,
+      "showBonus": 500,
+      "ccBonus": 854.61,
       "topShow": null,
       "topCash": null,
-      "totalBonus": 1244.61
+      "totalBonus": 1354.61
     },
     {
       "name": "Heinrich Abarquez",
-      "show": 39,
+      "show": 40,
       "cashCollected": 89123,
-      "conversion": 33.33,
-      "showBonus": 500,
+      "conversion": 32.5,
+      "showBonus": 800,
       "ccBonus": 891.23,
       "topShow": 250,
-      "topCash": 400,
-      "totalBonus": 2041.23
+      "topCash": null,
+      "totalBonus": 1941.23
     },
     {
       "name": "Tommy Tecson",
-      "show": 18,
+      "show": 19,
       "cashCollected": 26912.75,
-      "conversion": 22.22,
+      "conversion": 21.05,
       "showBonus": 0,
       "ccBonus": 215.3,
       "topShow": null,
@@ -80,14 +80,14 @@
     },
     {
       "name": "Julius Vizcayno",
-      "show": 26,
-      "cashCollected": 86712,
-      "conversion": 57.69,
-      "showBonus": 300,
-      "ccBonus": 867.12,
+      "show": 31,
+      "cashCollected": 90712,
+      "conversion": 54.84,
+      "showBonus": 400,
+      "ccBonus": 907.12,
       "topShow": null,
-      "topCash": null,
-      "totalBonus": 1167.12
+      "topCash": 400,
+      "totalBonus": 1707.12
     },
     {
       "name": "Dan Emmanuel Nicolas",
@@ -102,9 +102,9 @@
     },
     {
       "name": "Edelson Libunao",
-      "show": 18,
+      "show": 19,
       "cashCollected": 43250,
-      "conversion": 22.22,
+      "conversion": 21.05,
       "showBonus": 0,
       "ccBonus": 346,
       "topShow": null,
@@ -124,14 +124,14 @@
     },
     {
       "name": "Kenneth Mhar Garcia Libron",
-      "show": 29,
-      "cashCollected": 54500,
-      "conversion": 24.14,
-      "showBonus": 300,
-      "ccBonus": 436,
+      "show": 30,
+      "cashCollected": 65577.5,
+      "conversion": 30,
+      "showBonus": 400,
+      "ccBonus": 655.78,
       "topShow": null,
       "topCash": null,
-      "totalBonus": 736
+      "totalBonus": 1055.78
     }
   ]
 }

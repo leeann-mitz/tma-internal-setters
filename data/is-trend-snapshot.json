@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T20:44:17.657Z",
+  "generatedAt": "2026-07-24T11:53:27.121Z",
   "source": "snapshot",
   "team": {
     "name": "Internal Setter (Team Philip)",
@@ -57,13 +57,13 @@
       },
       {
         "label": "Jul",
-        "sets": 492,
-        "shows": 262,
-        "showRate": 53.25,
-        "closedDeal": 87,
-        "closeRate": 33.20610687022901,
-        "revenue": 609293,
-        "cashCollected": 613861
+        "sets": 509,
+        "shows": 280,
+        "showRate": 55.01,
+        "closedDeal": 93,
+        "closeRate": 33.214285714285715,
+        "revenue": 648793,
+        "cashCollected": 648938
       }
     ],
     "weekly": [
@@ -114,31 +114,21 @@
         "showRate": 55.23,
         "closedDeal": 27,
         "closeRate": 28.421052631578945,
-        "revenue": 201481,
+        "revenue": 202481,
         "cashCollected": 198725
       },
       {
         "label": "WB 07/20",
-        "sets": 99,
-        "shows": 40,
-        "showRate": 40.4,
-        "closedDeal": 14,
-        "closeRate": 35,
-        "revenue": 91000,
-        "cashCollected": 82418
+        "sets": 116,
+        "shows": 58,
+        "showRate": 50,
+        "closedDeal": 20,
+        "closeRate": 34.48275862068966,
+        "revenue": 129500,
+        "cashCollected": 117496
       }
     ],
     "daily": [
-      {
-        "label": "07/14",
-        "sets": 39,
-        "shows": 20,
-        "showRate": 51.28,
-        "closedDeal": 4,
-        "closeRate": 20,
-        "revenue": 35000,
-        "cashCollected": 40413
-      },
       {
         "label": "07/15",
         "sets": 30,
@@ -166,7 +156,7 @@
         "showRate": 39.39,
         "closedDeal": 1,
         "closeRate": 7.6923076923076925,
-        "revenue": 5500,
+        "revenue": 6500,
         "cashCollected": 7550
       },
       {
@@ -201,9 +191,9 @@
       },
       {
         "label": "07/21",
-        "sets": 39,
+        "sets": 38,
         "shows": 16,
-        "showRate": 41.03,
+        "showRate": 42.11,
         "closedDeal": 3,
         "closeRate": 18.75,
         "revenue": 21700,
@@ -211,19 +201,29 @@
       },
       {
         "label": "07/22",
-        "sets": 30,
-        "shows": 13,
-        "showRate": 43.33,
+        "sets": 31,
+        "shows": 14,
+        "showRate": 45.16,
         "closedDeal": 3,
-        "closeRate": 23.076923076923077,
+        "closeRate": 21.428571428571427,
         "revenue": 18500,
         "cashCollected": 23750
       },
       {
         "label": "07/23",
-        "sets": 1,
+        "sets": 18,
+        "shows": 17,
+        "showRate": 94.44,
+        "closedDeal": 6,
+        "closeRate": 35.294117647058826,
+        "revenue": 38500,
+        "cashCollected": 35078
+      },
+      {
+        "label": "07/24",
+        "sets": 0,
         "shows": 2,
-        "showRate": 200,
+        "showRate": null,
         "closedDeal": 0,
         "closeRate": 0,
         "revenue": 0,
@@ -288,9 +288,9 @@
         },
         {
           "label": "Jul",
-          "sets": 67,
-          "shows": 39,
-          "showRate": 58.2089552238806,
+          "sets": 71,
+          "shows": 40,
+          "showRate": 56.33802816901409,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -350,9 +350,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 13,
-          "shows": 7,
-          "showRate": 53.84615384615385,
+          "sets": 17,
+          "shows": 8,
+          "showRate": 47.05882352941176,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -360,16 +360,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 8,
-          "shows": 1,
-          "showRate": 12.5,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 4,
@@ -452,9 +442,19 @@
         },
         {
           "label": "07/23",
-          "sets": 1,
-          "shows": 1,
-          "showRate": 100,
+          "sets": 5,
+          "shows": 2,
+          "showRate": 40,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
+          "sets": 0,
+          "shows": 0,
+          "showRate": null,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -519,8 +519,8 @@
         {
           "label": "Jul",
           "sets": 45,
-          "shows": 26,
-          "showRate": 57.77777777777777,
+          "shows": 31,
+          "showRate": 68.88888888888889,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -581,8 +581,8 @@
         {
           "label": "WB 07/20",
           "sets": 11,
-          "shows": 5,
-          "showRate": 45.45454545454545,
+          "shows": 10,
+          "showRate": 90.9090909090909,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -590,16 +590,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 4,
-          "shows": 2,
-          "showRate": 50,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 3,
@@ -673,8 +663,8 @@
         {
           "label": "07/22",
           "sets": 2,
-          "shows": 1,
-          "showRate": 50,
+          "shows": 2,
+          "showRate": 100,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -683,7 +673,17 @@
         {
           "label": "07/23",
           "sets": 0,
-          "shows": 0,
+          "shows": 3,
+          "showRate": null,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
+          "sets": 0,
+          "shows": 1,
           "showRate": null,
           "closedDeal": null,
           "closeRate": null,
@@ -748,9 +748,9 @@
         },
         {
           "label": "Jul",
-          "sets": 32,
-          "shows": 18,
-          "showRate": 56.25,
+          "sets": 35,
+          "shows": 19,
+          "showRate": 54.285714285714285,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -810,9 +810,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 8,
-          "shows": 3,
-          "showRate": 37.5,
+          "sets": 11,
+          "shows": 4,
+          "showRate": 36.36363636363637,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -820,16 +820,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 1,
-          "shows": 1,
-          "showRate": 100,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 1,
@@ -912,6 +902,16 @@
         },
         {
           "label": "07/23",
+          "sets": 3,
+          "shows": 1,
+          "showRate": 33.33333333333333,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -979,8 +979,8 @@
         {
           "label": "Jul",
           "sets": 31,
-          "shows": 18,
-          "showRate": 58.06451612903226,
+          "shows": 19,
+          "showRate": 61.29032258064516,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1041,8 +1041,8 @@
         {
           "label": "WB 07/20",
           "sets": 5,
-          "shows": 2,
-          "showRate": 40,
+          "shows": 3,
+          "showRate": 60,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1050,16 +1050,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 3,
-          "shows": 1,
-          "showRate": 33.33333333333333,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 0,
@@ -1122,9 +1112,9 @@
         },
         {
           "label": "07/21",
-          "sets": 3,
+          "sets": 2,
           "shows": 1,
-          "showRate": 33.33333333333333,
+          "showRate": 50,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1142,6 +1132,16 @@
         },
         {
           "label": "07/23",
+          "sets": 1,
+          "shows": 0,
+          "showRate": 0,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -1208,9 +1208,9 @@
         },
         {
           "label": "Jul",
-          "sets": 39,
+          "sets": 42,
           "shows": 22,
-          "showRate": 56.41025641025641,
+          "showRate": 52.38095238095239,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1270,9 +1270,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 6,
+          "sets": 9,
           "shows": 4,
-          "showRate": 66.66666666666666,
+          "showRate": 44.44444444444444,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1280,16 +1280,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 2,
-          "shows": 2,
-          "showRate": 100,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 4,
@@ -1372,8 +1362,18 @@
         },
         {
           "label": "07/23",
-          "sets": 0,
+          "sets": 3,
           "shows": 0,
+          "showRate": 0,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
+          "sets": 0,
+          "shows": 1,
           "showRate": null,
           "closedDeal": null,
           "closeRate": null,
@@ -1438,9 +1438,9 @@
         },
         {
           "label": "Jul",
-          "sets": 32,
-          "shows": 18,
-          "showRate": 56.25,
+          "sets": 34,
+          "shows": 20,
+          "showRate": 58.82352941176471,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1500,9 +1500,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 9,
-          "shows": 2,
-          "showRate": 22.22222222222222,
+          "sets": 11,
+          "shows": 4,
+          "showRate": 36.36363636363637,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1510,16 +1510,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 2,
-          "shows": 2,
-          "showRate": 100,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 3,
@@ -1602,6 +1592,16 @@
         },
         {
           "label": "07/23",
+          "sets": 2,
+          "shows": 2,
+          "showRate": 100,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -1668,9 +1668,9 @@
         },
         {
           "label": "Jul",
-          "sets": 65,
-          "shows": 34,
-          "showRate": 52.307692307692314,
+          "sets": 66,
+          "shows": 36,
+          "showRate": 54.54545454545454,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1730,9 +1730,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 12,
-          "shows": 2,
-          "showRate": 16.666666666666664,
+          "sets": 13,
+          "shows": 4,
+          "showRate": 30.76923076923077,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1740,16 +1740,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 4,
-          "shows": 4,
-          "showRate": 100,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 1,
@@ -1822,9 +1812,9 @@
         },
         {
           "label": "07/22",
-          "sets": 6,
+          "sets": 7,
           "shows": 2,
-          "showRate": 33.33333333333333,
+          "showRate": 28.57142857142857,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1832,6 +1822,16 @@
         },
         {
           "label": "07/23",
+          "sets": 0,
+          "shows": 2,
+          "showRate": null,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -1898,9 +1898,9 @@
         },
         {
           "label": "Jul",
-          "sets": 48,
-          "shows": 24,
-          "showRate": 50,
+          "sets": 50,
+          "shows": 28,
+          "showRate": 56.00000000000001,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1960,9 +1960,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 11,
-          "shows": 5,
-          "showRate": 45.45454545454545,
+          "sets": 13,
+          "shows": 9,
+          "showRate": 69.23076923076923,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -1970,16 +1970,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 4,
-          "shows": 2,
-          "showRate": 50,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 4,
@@ -2062,6 +2052,16 @@
         },
         {
           "label": "07/23",
+          "sets": 2,
+          "shows": 4,
+          "showRate": 200,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -2201,16 +2201,6 @@
       ],
       "daily": [
         {
-          "label": "07/14",
-          "sets": 4,
-          "shows": 0,
-          "showRate": 0,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
-        {
           "label": "07/15",
           "sets": 1,
           "shows": 5,
@@ -2299,6 +2289,16 @@
           "closeRate": null,
           "revenue": null,
           "cashCollected": null
+        },
+        {
+          "label": "07/24",
+          "sets": 0,
+          "shows": 0,
+          "showRate": null,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
         }
       ]
     },
@@ -2358,9 +2358,9 @@
         },
         {
           "label": "Jul",
-          "sets": 51,
-          "shows": 18,
-          "showRate": 35.294117647058826,
+          "sets": 52,
+          "shows": 19,
+          "showRate": 36.53846153846153,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -2420,9 +2420,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 8,
-          "shows": 3,
-          "showRate": 37.5,
+          "sets": 9,
+          "shows": 4,
+          "showRate": 44.44444444444444,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -2430,16 +2430,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 3,
-          "shows": 1,
-          "showRate": 33.33333333333333,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 3,
@@ -2522,6 +2512,16 @@
         },
         {
           "label": "07/23",
+          "sets": 1,
+          "shows": 1,
+          "showRate": 100,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -2588,9 +2588,9 @@
         },
         {
           "label": "Jul",
-          "sets": 46,
-          "shows": 29,
-          "showRate": 63.04347826086957,
+          "sets": 47,
+          "shows": 30,
+          "showRate": 63.829787234042556,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -2650,9 +2650,9 @@
         },
         {
           "label": "WB 07/20",
-          "sets": 8,
-          "shows": 4,
-          "showRate": 50,
+          "sets": 9,
+          "shows": 5,
+          "showRate": 55.55555555555556,
           "closedDeal": null,
           "closeRate": null,
           "revenue": null,
@@ -2660,16 +2660,6 @@
         }
       ],
       "daily": [
-        {
-          "label": "07/14",
-          "sets": 4,
-          "shows": 4,
-          "showRate": 100,
-          "closedDeal": null,
-          "closeRate": null,
-          "revenue": null,
-          "cashCollected": null
-        },
         {
           "label": "07/15",
           "sets": 5,
@@ -2752,6 +2742,16 @@
         },
         {
           "label": "07/23",
+          "sets": 1,
+          "shows": 1,
+          "showRate": 100,
+          "closedDeal": null,
+          "closeRate": null,
+          "revenue": null,
+          "cashCollected": null
+        },
+        {
+          "label": "07/24",
           "sets": 0,
           "shows": 0,
           "showRate": null,
@@ -2767,78 +2767,89 @@
     {
       "name": "Julius Vizcayno",
       "monthLabel": "7/1/2026",
-      "revenue": 97181.04,
-      "netCashCollected": 86712,
+      "revenue": 107181.04,
+      "netCashCollected": 90712,
       "sets": 45,
-      "shows": 26,
-      "closedDeal": 15,
-      "showRate": 57.78,
-      "closedDealRate": 57.69
+      "shows": 31,
+      "closedDeal": 17,
+      "showRate": 68.89,
+      "closedDealRate": 54.84
     },
     {
       "name": "Heinrich Abarquez",
       "monthLabel": "7/1/2026",
       "revenue": 92200,
       "netCashCollected": 89123,
-      "sets": 67,
-      "shows": 39,
+      "sets": 71,
+      "shows": 40,
       "closedDeal": 13,
-      "showRate": 58.21,
-      "closedDealRate": 33.33
+      "showRate": 56.34,
+      "closedDealRate": 32.5
     },
     {
       "name": "Phoebe Estel Ymil Collado",
       "monthLabel": "7/1/2026",
-      "revenue": 86000,
-      "netCashCollected": 84461.29,
-      "sets": 65,
-      "shows": 34,
+      "revenue": 87000,
+      "netCashCollected": 85461.29,
+      "sets": 66,
+      "shows": 36,
       "closedDeal": 13,
-      "showRate": 52.31,
-      "closedDealRate": 38.24
+      "showRate": 54.55,
+      "closedDealRate": 36.11
     },
     {
       "name": "Kenneth Mhar Garcia Libron",
       "monthLabel": "7/1/2026",
-      "revenue": 61000,
-      "netCashCollected": 54500,
-      "sets": 46,
-      "shows": 29,
-      "closedDeal": 7,
-      "showRate": 63.04,
-      "closedDealRate": 24.14
+      "revenue": 71500,
+      "netCashCollected": 65577.5,
+      "sets": 47,
+      "shows": 30,
+      "closedDeal": 9,
+      "showRate": 63.83,
+      "closedDealRate": 30
     },
     {
       "name": "Vian Perez",
       "monthLabel": "7/1/2026",
       "revenue": 59911.89,
-      "netCashCollected": 63019.55,
-      "sets": 32,
-      "shows": 18,
+      "netCashCollected": 64019.55,
+      "sets": 35,
+      "shows": 19,
       "closedDeal": 10,
-      "showRate": 56.25,
-      "closedDealRate": 55.56
+      "showRate": 54.29,
+      "closedDealRate": 52.63
     },
     {
       "name": "Rafael John Abayan",
       "monthLabel": "7/1/2026",
       "revenue": 54500,
       "netCashCollected": 59912.75,
-      "sets": 32,
-      "shows": 18,
+      "sets": 34,
+      "shows": 20,
       "closedDeal": 8,
-      "showRate": 56.25,
-      "closedDealRate": 44.44
+      "showRate": 58.82,
+      "closedDealRate": 40
+    },
+    {
+      "name": "Jhaziel Gonzales",
+      "monthLabel": "7/1/2026",
+      "revenue": 45500,
+      "netCashCollected": 49802.5,
+      "sets": 50,
+      "shows": 28,
+      "closedDeal": 6,
+      "showRate": 56,
+      "closedDealRate": 21.43
     },
     {
       "name": "Richard Ian Alvarez",
       "monthLabel": "7/1/2026",
       "revenue": 44500,
       "netCashCollected": 48166.66,
-      "sets": 39,
+      "sets": 42,
       "shows": 22,
       "closedDeal": 5,
-      "showRate": 56.41,
+      "showRate": 52.38,
       "closedDealRate": 22.73
     },
     {
@@ -2846,11 +2857,11 @@
       "monthLabel": "7/1/2026",
       "revenue": 32500,
       "netCashCollected": 43250,
-      "sets": 51,
-      "shows": 18,
+      "sets": 52,
+      "shows": 19,
       "closedDeal": 4,
-      "showRate": 35.29,
-      "closedDealRate": 22.22
+      "showRate": 36.54,
+      "closedDealRate": 21.05
     },
     {
       "name": "Tommy Tecson",
@@ -2858,21 +2869,10 @@
       "revenue": 29500,
       "netCashCollected": 26912.75,
       "sets": 31,
-      "shows": 18,
+      "shows": 19,
       "closedDeal": 4,
-      "showRate": 58.06,
-      "closedDealRate": 22.22
-    },
-    {
-      "name": "Jhaziel Gonzales",
-      "monthLabel": "7/1/2026",
-      "revenue": 27500,
-      "netCashCollected": 31802.5,
-      "sets": 48,
-      "shows": 24,
-      "closedDeal": 4,
-      "showRate": 50,
-      "closedDealRate": 16.67
+      "showRate": 61.29,
+      "closedDealRate": 21.05
     },
     {
       "name": "Dan Emmanuel Nicolas",
